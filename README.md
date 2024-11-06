@@ -12,6 +12,6 @@ This was written for UBC's CRWR 310 Video Game Writing and Narrative course.
 This was written for UBC's CRWR 213 Introduction to Writing for New Media course.
 
 ## *ADHD Experience* Interactive Story
-A short piece of interactive fiction simulating what it's like to have ADHD.
+A short piece of interactive fiction simulating what it's like to have ADHD. To view the story, simply click the game file in files and download it using the download button at the file's upper right.
 
 This was written for UBC's CRWR 213 Introduction to Writing for New Media course.
